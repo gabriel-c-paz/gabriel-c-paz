@@ -1,16 +1,13 @@
-### Hi there 👋
+# About me
 
-<!--
-**gabriel-c-paz/gabriel-c-paz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :tada::baby: I started programming as a hobby at sixteen. Today, older, this is my career.
+***
+I've done small projects in several languages, such as: 
+  * Golang
+  * Python 
+  * Java 
+  * Intel x86_64 Assembly
+  * OCaml.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+But today, I work with Java and Dart (for Flutter).
+***
